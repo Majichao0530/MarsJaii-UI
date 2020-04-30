@@ -6,9 +6,11 @@
 
 安装组件库 npm add marsjaii-ui
 
-全局导入 
+全局导入库和样式
   import MjUI form 'marsjaii-ui'
   
+  import 'marsjaii-ui/dist/mj-ui.css'  
+
   Vue.use(MjUI)
 
 # dialog组件
