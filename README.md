@@ -1,15 +1,13 @@
-# Mj-ui
+# marsjaii-ui
 
 基于vue-cli3，参考element-ui封装的一个UI组件库
 
 初始化vue项目 vue created demo
 
-安装组件库 npm add mj-ui
+安装组件库 npm add marsjaii-ui
 
 全局导入 
-  import MjUI form 'mj-ui' 
-  import 'mjui/lib/mj.css'
-
+  import MjUI form 'marsjaii-ui'
   Vue.use(MjUI)
 
 # dialog组件
