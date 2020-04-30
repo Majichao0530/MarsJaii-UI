@@ -8,6 +8,7 @@
 
 全局导入 
   import MjUI form 'marsjaii-ui'
+  
   Vue.use(MjUI)
 
 # dialog组件
